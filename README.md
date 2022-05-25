@@ -9,12 +9,7 @@
 <br />
 
 ## How-To:
-1. Go to Settings > Other > About and take a note of the GSF ID, use Device ID and tap the Copy Button or use ADB and Typ:
-```
-adb root
-adb shell 'sqlite3 /data/data/com.google.android.gsf/databases/gservices.db \
-    "select * from main where name = \"android_id\";"'
-```
+1. Go to Settings > Other > About and take a note of the GSF ID or use Device ID
 2. Open https://www.google.com/android/uncertified in any Web Browser
 3. Log in with your Google Account
 4. Enter the GSF ID
