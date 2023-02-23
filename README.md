@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/WGmZH4n/Register-Device.png" width="400"></a>
+<p align="center"><img src="https://github.com/K3V1991/Fix-This-Device-isnt-Play-Protect-certified/blob/main/Register-Device.png" width="800"></a>
 <h1 align="center"><b>How to fix "This Device isn’t Play Protect certified"</b></h1>
 <br />
 
