@@ -17,12 +17,12 @@
 <br />
 
 ## How-To:
-1. Go to Settings > Other > About and take a note of the GSF ID or use Device ID
+1. Go to ```Settings``` > ```Other``` > ```About``` and take a note of the ```GSF ID``` or use ```Device ID```
 2. Open https://www.google.com/android/uncertified in any Web Browser
 3. Log in with your Google Account
-4. Enter the GSF ID
-5. Solve the reCAPTCHA
-6. Tap Register
+4. Enter the ```GSF ID```
+5. Solve the ```reCAPTCHA```
+6. Tap ```Register```
 7. Restart your Device
 8. Wait a few Minutes
-9. Open Google Play Store > Settings > About > Play Protect certificate still shows "Device is not certified" but it works
+9. Open ```Google Play Store``` > ```Settings``` > ```About``` > Play Protect certificate still shows ```Device is not certified``` but it works
